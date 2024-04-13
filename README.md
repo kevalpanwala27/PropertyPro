@@ -37,17 +37,3 @@ PropertyPro is deployed using the `render` platform. Follow these steps to deplo
 3. Configure the build settings to build and deploy the React.js frontend.
 4. Set up environment variables for MongoDB connection and Firebase configuration.
 5. Deploy the application.
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to PropertyPro, please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/my-feature`.
-3. Commit your changes: `git commit -am 'Add new feature'`.
-4. Push to the branch: `git push origin feature/my-feature`.
-5. Submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
